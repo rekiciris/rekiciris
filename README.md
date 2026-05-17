@@ -1,11 +1,8 @@
-# Hi, I'm Iris! 👋
+👋 Hi, I'm Iris!
+🚀 Future Database Analyst in the making! I am actively shifting my career toward data analytics, spending my time turning technical theory into clean SQL queries 🖥️ and Python scripts 🐍.
 
-### 🚀 Aspiring Data & Python Developer
-I'm currently on a journey to master the world of data using Python and SQL.
+🛠️ Tech Stack: Python | SQL
 
-- 🔭 **Current Project:** Building my first Movie Database (SQL & Python)
-- 🌱 **Learning:** Python, SQLite, and GitHub Workflows
-- 💻 **Setup:** VS Code, DBeaver, and PyCharm
+🤝 Looking for: Insights, knowledge exchange, and collaborative beginner-friendly projects.
 
-### About me:
-I'm passionate about clean code and organizing data. Every green square on my contribution graph is a step toward becoming a pro! 🚀
+🌱 "Passionate about learning, always thankful for suggestions!"
